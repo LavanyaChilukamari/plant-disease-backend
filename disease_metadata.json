@@ -1,0 +1,40 @@
+{
+  "Apple___Apple_scab": {
+    "status": "diseased",
+    "cure": [
+      "Apply fungicides like captan or myclobutanil",
+      "Remove and destroy infected leaves"
+    ],
+    "prevention": [
+      "Ensure proper air circulation",
+      "Avoid overhead watering",
+      "Use resistant apple varieties"
+    ],
+    "leaf_uses": "Apple leaves are traditionally used in herbal teas and mild anti-inflammatory remedies"
+  },
+
+  "Apple___healthy": {
+    "status": "healthy",
+    "cure": ["No treatment required"],
+    "prevention": [
+      "Maintain proper irrigation",
+      "Regular pruning",
+      "Seasonal organic spraying"
+    ],
+    "leaf_uses": "Healthy apple leaves are used in traditional detox teas"
+  },
+
+  "Tomato___Late_blight": {
+    "status": "diseased",
+    "cure": [
+      "Apply copper-based fungicides",
+      "Remove affected plants immediately"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Avoid wet foliage",
+      "Use certified disease-free seeds"
+    ],
+    "leaf_uses": "Tomato leaves have limited medicinal use and should not be consumed"
+  }
+}
