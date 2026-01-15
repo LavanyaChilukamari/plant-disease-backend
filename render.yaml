@@ -3,6 +3,8 @@ services:
     name: plant-disease-backend
     env: python
     plan: free
-    runtime: python-3.10.13
+
+    pythonVersion: 3.10.13
+
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn inference_api:app
